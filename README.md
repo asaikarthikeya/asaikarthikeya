@@ -7,3 +7,5 @@
 - ⚡ Fun fact: Hardwork is a vector quantity
 
 ![](https://komarev.com/ghpvc/?username=asaikarthikeya)
+
+![](https://github-readme-stats.vercel.app/api?username=asaikarthikeya&count_private=true&theme=tokyonight) 
