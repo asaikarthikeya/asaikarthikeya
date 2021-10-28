@@ -3,10 +3,11 @@
 <p align="center"><h4 align="center"><samp> A Coder by Day and A Developer by Night </samp></h4></p>
 <br>
 
+
+<img src="https://media.giphy.com/media/M4MreJxIeJdAHjoDFe/giphy.gif" width="250px" height="350px" alt=gif align="right"> 
+
 <div>
   
-<img src="file:///home/saikarthik/Downloads/fina" width="450px" height="300px" alt=gif align="right"> 
-
 - 🔭 <samp>I’m currently working on [enviroCar](https://github.com/enviroCar)
 
 - 🌱 <samp>I’m currently exploring various fields of Computer Science.
@@ -26,3 +27,4 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=asaikarthikeya&count_private=true&theme=dark&count) 
+  
