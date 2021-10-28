@@ -20,6 +20,7 @@
 
 - 📫 <samp>How to reach me: [Linkedin](https://www.linkedin.com/in/sai-karthikeya-31998a1b8/),  a.saikarthikeya@gmail.com
   
+	
 ## Languages and Tools </h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
@@ -163,12 +164,12 @@
     </a>
   	
    
+## Statistics
+|<img src="https://github-readme-stats.vercel.app/api?username=asaikarthikeya&show_icons=true&&count_private=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=asaikarthikeya&theme=dark&hide_border=true"/>|
+|---|---|
   
+
+
+![](https://komarev.com/ghpvc/?username=asaikarthikeya&style=flat-square&color=blue) 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=asaikarthikeya)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://komarev.com/ghpvc/?username=asaikarthikeya&style=flat-square&color=blue)
-
-
-![](https://github-readme-stats.vercel.app/api?username=asaikarthikeya&count_private=true&theme=dark&count) 
-  
