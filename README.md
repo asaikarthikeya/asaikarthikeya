@@ -21,7 +21,7 @@
 - 💬 <samp>I love talking about Android, so don't hesitate to say hi!
   
 - 🥇 <samp>Open Source and Android Enthusiast.
-- ⚡  <samp> Fun fact : Hard work is a vector quantity 
+- ⚡  <samp> Fun fact : Tom and Jerry are best friends😝 
 - 😄 <samp>Pronouns: He/His.
 
 - 📫 <samp>How to reach me: [Linkedin](https://www.linkedin.com/in/sai-karthikeya-31998a1b8/),  a.saikarthikeya@gmail.com
