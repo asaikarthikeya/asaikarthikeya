@@ -1,21 +1,27 @@
 <p align="center"><h2 align="center"><samp> Hi there! </samp></h2></p>
 <p align="center"><h1 align="center"><samp> I am Sai Karthikeya </samp></h1></p>
 <p align="center"><h4 align="center"><samp> A Coder by Day and A Developer by Night </samp></h4></p>
+
+<p align="center"> 
+	<a href="https://github.com/asaikarthikeya"><img src="https://komarev.com/ghpvc/?username=asaikarthikeya" alt="asaikarthikeya"/></a>
+	<a href="https://github.com/asaikarthikeya?tab=repositories"><img src="https://badges.pufler.dev/repos/asaikarthikeya" alt="asaikarthikeya" /> </a>
+	<img src="https://img.shields.io/github/stars/asaikarthikeya?label=Stars" alt="Total Stars">
+</p>
 <br>
 
-
-<img src="https://media.giphy.com/media/qzOs8XQGFNIoCiWo4r/giphy.gif" width="350px" height="325px" alt=gif align="right"> 
+<!-- contribution graph -->
+<!-- img src="https://media.giphy.com/media/qzOs8XQGFNIoCiWo4r/giphy.gif" width="350px" height="300px" alt=gif align="right"--> 
 
 <div>
-  
+	
 - 🔭 <samp>I’m currently working on [enviroCar](https://github.com/enviroCar)
 
 - 🌱 <samp>I’m currently exploring various fields of Computer Science.
 
 - 💬 <samp>I love talking about Android, so don't hesitate to say hi!
   
-- ⚡  <samp> Fun fact : Hard work is a vector quantity 
 - 🥇 <samp>Open Source and Android Enthusiast.
+- ⚡  <samp> Fun fact : Hard work is a vector quantity 
 - 😄 <samp>Pronouns: He/His.
 
 - 📫 <samp>How to reach me: [Linkedin](https://www.linkedin.com/in/sai-karthikeya-31998a1b8/),  a.saikarthikeya@gmail.com
@@ -168,8 +174,5 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=asaikarthikeya&show_icons=true&&count_private=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=asaikarthikeya&theme=dark&hide_border=true"/>|
 |---|---|
   
-
-
-![](https://komarev.com/ghpvc/?username=asaikarthikeya&style=flat-square&color=blue) 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=asaikarthikeya)](https://github.com/ryo-ma/github-profile-trophy)
