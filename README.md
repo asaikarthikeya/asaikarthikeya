@@ -14,16 +14,16 @@
 
 <div>
 	
-- 🔭 <samp>I’m currently working on [enviroCar](https://github.com/enviroCar)
+- 🔭 I’m currently working on [enviroCar](https://github.com/enviroCar)
 
-- 🌱 <samp>I’m currently exploring various fields of Computer Science.
+- 🌱 I’m currently exploring various fields of Computer Science.
 
-- 💬 <samp>I love talking about Android, so don't hesitate to say hi!
+- 💬 I love talking about Android, so don't hesitate to say hi!
   
-- 🥇 <samp>Open Source and Android Enthusiast.
-- 😄 <samp>Pronouns: He/His.
+- 🥇 Open Source and Android Enthusiast.
+- 😄 Pronouns: He/His.
 
-- 📫 <samp>How to reach me: [Linkedin](https://www.linkedin.com/in/sai-karthikeya-31998a1b8/),  a.saikarthikeya@gmail.com
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sai-karthikeya-31998a1b8/),  a.saikarthikeya@gmail.com
   
 	
 ## Languages and Tools </h3>
@@ -173,5 +173,3 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=asaikarthikeya&show_icons=true&&count_private=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=asaikarthikeya&theme=dark&hide_border=true"/>|
 |---|---|
   
-## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=asaikarthikeya)](https://github.com/ryo-ma/github-profile-trophy)
