@@ -1,32 +1,28 @@
 <p align="center"><h2 align="center"><samp> Hi there! </samp></h2></p>
 <p align="center"><h1 align="center"><samp> I am Sai Karthikeya </samp></h1></p>
-<p align="center"><h4 align="center"><samp> A Coder by Day and A Developer by Night </samp></h4></p>
 
 <p align="center"> 
 	<a href="https://github.com/asaikarthikeya"><img src="https://komarev.com/ghpvc/?username=asaikarthikeya" alt="asaikarthikeya"/></a>
 	<a href="https://github.com/asaikarthikeya?tab=repositories"><img src="https://badges.pufler.dev/repos/asaikarthikeya" alt="asaikarthikeya" /> </a>
 	<img src="https://img.shields.io/github/stars/asaikarthikeya?label=Stars" alt="Total Stars">
 </p>
-<br>
+
 
 <!-- contribution graph -->
 <!-- img src="https://media.giphy.com/media/qzOs8XQGFNIoCiWo4r/giphy.gif" width="350px" height="300px" alt=gif align="right"--> 
 
-<div>
-	
-- 🔭 I’m currently working on [enviroCar](https://github.com/enviroCar)
 
-- 🌱 I’m currently exploring various fields of Computer Science.
+	
+- 👨‍💻 I’m currently working on Android Development technologies
+  
+- 🥇 I’m looking to explore Android platform development.
 
 - 💬 I love talking about Android, so don't hesitate to say hi!
-  
-- 🥇 Open Source and Android Enthusiast.
-- 😄 Pronouns: He/His.
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sai-karthikeya-31998a1b8/),  a.saikarthikeya@gmail.com
   
 	
-## Languages and Tools </h3>
+<!-- ## Languages and Tools </h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
         <img
@@ -166,7 +162,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a> -->
   	
    
 ## Statistics
