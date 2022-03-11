@@ -15,7 +15,7 @@
 	
 - 👨‍💻 I’m currently working on Android Development technologies
   
-- 🥇 I’m looking to explore Android platform development.
+- ⚡ I’m looking forward to explore Android platform development.
 
 - 💬 I love talking about Android, so don't hesitate to say hi!
 
