@@ -8,9 +8,9 @@
 </p>
 
 	
-- 👨‍💻 I’m currently working on Android Development technologies
+- 👨‍💻 I’m currently working on [enviroCar](https://github.com/enviroCar)
   
-- ⚡ I’m looking forward to explore Android platform development.
+- ⚡ I’m currently exploring various fields of Computer Science.
 
 - 💬 I love talking about Android, so don't hesitate to say hi!
 
