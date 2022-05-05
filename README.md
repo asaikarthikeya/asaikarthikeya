@@ -7,11 +7,6 @@
 	<img src="https://img.shields.io/github/stars/asaikarthikeya?label=Stars" alt="Total Stars">
 </p>
 
-
-<!-- contribution graph -->
-<!-- img src="https://media.giphy.com/media/qzOs8XQGFNIoCiWo4r/giphy.gif" width="350px" height="300px" alt=gif align="right"--> 
-
-
 	
 - 👨‍💻 I’m currently working on Android Development technologies
   
@@ -169,3 +164,7 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=asaikarthikeya&show_icons=true&&count_private=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=asaikarthikeya&theme=dark&hide_border=true"/>|
 |---|---|
   
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=asaikarthikeya)](https://github.com/ryo-ma/github-profile-trophy)
+## Contribution Graph
+[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=asaikarthikeya&theme=redical)](https://github.com/asaikarthikeya/github-readme-activity-graph)
