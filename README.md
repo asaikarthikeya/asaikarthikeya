@@ -159,7 +159,7 @@
         />
     </a> -->
   	
-   
+<!--    
 ## Statistics
 |<img src="https://github-readme-stats.vercel.app/api?username=asaikarthikeya&show_icons=true&&count_private=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=asaikarthikeya&theme=dark&hide_border=true"/>|
 |---|---|
@@ -167,4 +167,5 @@
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=asaikarthikeya)](https://github.com/ryo-ma/github-profile-trophy)
 
+ -->
  -->
