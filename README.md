@@ -1,4 +1,4 @@
-<p align="center"><h2 align="center"><samp> Hi there! </samp></h2></p>
+<!-- <p align="center"><h2 align="center"><samp> Hi there! </samp></h2></p>
 <p align="center"><h1 align="center"><samp> I am Sai Karthikeya </samp></h1></p>
 
 <p align="center"> 
@@ -167,3 +167,4 @@
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=asaikarthikeya)](https://github.com/ryo-ma/github-profile-trophy)
 
+ -->
